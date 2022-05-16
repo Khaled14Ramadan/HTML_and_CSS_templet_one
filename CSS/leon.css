@@ -346,6 +346,9 @@ body {
 .portfolio .portfolio-content .card img {
     width: 100%;
 }
+.portfolio .portfolio-content .card .textarea {
+    padding: 20px;
+}
 
 .portfolio .portfolio-content .card h3 {
     margin: 0;
@@ -353,6 +356,8 @@ body {
 
 .portfolio .portfolio-content .card p {
     color: #797979;
+    line-height: 1.6;
+    margin-bottom: 0;
 }
 /* End portfolio */
 
